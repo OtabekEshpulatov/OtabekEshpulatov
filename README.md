@@ -15,11 +15,9 @@
 <hr>
 <pre>
 💻 I am Java backend and Database developer.
-📚 I have a Bachelors in Cyber security from the Tashkent University of Information Technologies.
-📝 I have a strong interest in Data Science and Artificial Intelligence
+📝 I have a strong interest in Java backend development and Cloud Computing
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Java, C++
-🤔 I’m currently open for: this is <a href="http://20.24.103.49:9091/" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
@@ -69,64 +67,8 @@
 	
 </p>
 
-## 📘 My top open source projects
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/uz-java/online-store-with-Spring"><b>Online Store website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/uz-java/Spring_mvc/tree/asliddin"><b>Library website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-<br>
 
-### :fire: My Github Stats :
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uz-java&" alt="uz-java" /></p> -->
-
-   <p align="center">
-          <a href="https://github.com/uz-java/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=uz-java&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=uz-java&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-
-<p align="center">
-        <a href="https://github.com/uz-java/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
-      </p>
-      
- <p align="center">
-          <a href="https://github.com/uz-java/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uz-java&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uz-java&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
-
-</div>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <div>
