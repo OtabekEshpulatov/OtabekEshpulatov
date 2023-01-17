@@ -5,13 +5,16 @@
 
 
 	
-<h1 align="center">
+<!-- <h1 align="center">
 
 <a href="https://github.com/OtabekEshpulatov">
 <img alt="GIF" src="https://giphy.com/embed/R03zWv5p1oNSQd91EP"
-</a>
+     </a>
 
-</h1>
+</h1> -->
+	
+	
+	<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP"></a></p>
 
 	
 <br>
