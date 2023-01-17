@@ -7,7 +7,7 @@
 	
 <h1 align="center">
 
-<a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">
+<a href="https://github.com/OtabekEshpulatov">
 <img alt="GIF" src="https://giphy.com/embed/R03zWv5p1oNSQd91EP"
 </a>
 
