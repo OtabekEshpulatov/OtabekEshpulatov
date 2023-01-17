@@ -3,7 +3,7 @@
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Otabek Eshpo'latov!;Welcome+to+my+GitHub+Profile!">
 </h1>
 
-<iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
 	
 	
 <br>
