@@ -71,8 +71,8 @@
  -->
 
 
-<div>
-     <h1 align="center">
+<div align="center">
+     <h1 >
 	<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!">
 </h1>
 </div>
