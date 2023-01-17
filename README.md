@@ -67,6 +67,12 @@
 </p>
 
 
+<!-- <p><strong>My open source projects and activity</strong></p> -->
+
+### LeetCode Stats Card
+![LeetCode Stats](https://leetcode.card.workers.dev/otabekjan?theme=unicorn&font=baloo&extension=activity)
+
+
 
 
 
