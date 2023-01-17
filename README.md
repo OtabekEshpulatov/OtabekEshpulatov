@@ -72,7 +72,7 @@
 
 
 <div>
-     <h1 align="center" style="top-margin:1000px">
+     <h1 align="center" style="margin-top:100px">
 	<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!">
 </h1>
 </div>
