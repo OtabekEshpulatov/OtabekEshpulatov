@@ -70,8 +70,8 @@
   <thead align="center">
     <tr border: none;>
       <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
+<!--       <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td> -->
     </tr>
   </thead>
   <tbody>
