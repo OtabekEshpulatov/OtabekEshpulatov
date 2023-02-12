@@ -64,12 +64,30 @@
 </p>
 
 
-<!-- <p><strong>My open source projects and activity</strong></p> -->
-<!-- 
-### LeetCode Stats Card
-![LeetCode Stats](https://leetcode.card.workers.dev/otabekjan?theme=unicorn&font=baloo&extension=activity)
- -->
+## 📘 My top open source projects
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ElbekKholmatov/RealEstate"><b>Bot Working With Real Estates</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/OtabekEshpulatov/mock-data-generator"><b>Mock-Data-Generator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 <div>
      <h1 align="center">
