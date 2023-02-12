@@ -97,8 +97,8 @@
        </p>
 
 <p align="center">
-        <a href="https://github.com/ElbekKholmatov/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElbekKholmatov&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+        <a href="https://github.com/OtabekEshpulatov/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtabekEshpulatov&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
 
