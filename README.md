@@ -90,9 +90,9 @@
 
 
    <p align="center">
-          <a href="https://github.com/ElbekKholmatov/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ElbekKholmatov&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElbekKholmatov&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/OtabekEshpulatov/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=OtabekEshpulatov&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=OtabekEshpulatov&theme=gruvbox&hide_border=true" />
           </a>
        </p>
 
