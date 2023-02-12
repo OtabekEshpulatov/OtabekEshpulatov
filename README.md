@@ -77,7 +77,6 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/OtabekEshpulatov/mock-data-generator"><b>Mock-Data-Generator</b></a></td>
-
     </tr>
        <tr>
       <td><a href="https://github.com/OtabekEshpulatov/database-quizapp-postgresql"><b>Quizapp-database</b></a></td>
