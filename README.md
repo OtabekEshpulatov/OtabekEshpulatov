@@ -33,9 +33,9 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  <a href="https://isocpp.org/">
+<!--   <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a>
+  </a> -->
 &emsp;
   
 <a href="https://www.java.com/en/">
