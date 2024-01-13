@@ -14,7 +14,7 @@
 💻 I am Java backend and Database developer.
 📝 I have a strong interest in Java backend development and Cloud Computing
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Java, C++
+🌟 Main languages: Java, Python
 </pre>
 <hr>
 
@@ -43,6 +43,14 @@
   </a>
 </p>
 
+### 👉 Frameworks
+<p>
+	<a href="spring.io">Spring&Spring Boot</a>
+	<a href="jmix.io">Jmix</a>
+	<a href="https://vaadin.com/">Vaadin</a>
+	<a href="https://python.langchain.com">Langchain</a>
+ </p>
+
 ### 👉 Databases & Cloud Hosting
 <p>
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
@@ -59,8 +67,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
- 
-	
 </p>
 
 
@@ -86,8 +92,6 @@
 <br>
 
 ### :fire: My Github Stats :
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElbekKholmatov&" alt="ElbekKholmatov" /></p>
 
 
    <p align="center">
